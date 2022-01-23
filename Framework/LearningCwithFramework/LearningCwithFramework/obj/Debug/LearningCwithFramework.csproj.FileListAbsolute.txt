@@ -1,0 +1,10 @@
+D:\Workspace\LearningC#\Framework\LearningCwithFramework\LearningCwithFramework\obj\Debug\LearningCwithFramework.csprojAssemblyReference.cache
+D:\Workspace\LearningC#\Framework\LearningCwithFramework\LearningCwithFramework\obj\Debug\LearningCwithFramework.csproj.CoreCompileInputs.cache
+D:\Workspace\LearningC#\Framework\LearningCwithFramework\LearningCwithFramework\bin\Debug\LearningCwithFramework.exe.config
+D:\Workspace\LearningC#\Framework\LearningCwithFramework\LearningCwithFramework\bin\Debug\LearningCwithFramework.exe
+D:\Workspace\LearningC#\Framework\LearningCwithFramework\LearningCwithFramework\bin\Debug\LearningCwithFramework.pdb
+D:\Workspace\LearningC#\Framework\LearningCwithFramework\LearningCwithFramework\obj\Debug\LearningCwithFramework.exe
+D:\Workspace\LearningC#\Framework\LearningCwithFramework\LearningCwithFramework\obj\Debug\LearningCwithFramework.pdb
+D:\Workspace\LearningC#\Framework\LearningCwithFramework\LearningCwithFramework\bin\Debug\Newtonsoft.Json.dll
+D:\Workspace\LearningC#\Framework\LearningCwithFramework\LearningCwithFramework\bin\Debug\Newtonsoft.Json.xml
+D:\Workspace\LearningC#\Framework\LearningCwithFramework\LearningCwithFramework\obj\Debug\LearningCwithFramework.csproj.CopyComplete
